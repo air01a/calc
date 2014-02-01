@@ -7,11 +7,11 @@ This program just do mathematic calcul, nothing special.
 
 Compilation
 ===========
-
+```
 $ cd calc
 $ make
 $ make install
-
+```
 Usage
 =====
 $ calc "6*6*(1+3*tan(cos(0.5)))-0.218"
